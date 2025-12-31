@@ -22,5 +22,26 @@ The following steps were performed using SQL:
 
 
 ## The full cleaning logic can be found in:
+<a href = "https://github.com/charles-tabi-gyansah/world_layoffs_data_cleaning_and_EDA/blob/main/Layoffs_Data%20Cleaning.sql">Data Cleaning</a>
+
+
+## Exploratory Data Analysis (EDA)
+EDA was conducted to understand:
+- Layoffs trends over time
+- Most affected countries and industries
+- Companies with the highest layoffs
+
+## Key queries are documented in:
+  
+
+
+
+
+
+
+
+
+
+
 
    
