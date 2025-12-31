@@ -35,6 +35,18 @@ EDA was conducted to understand:
   <a href = "https://github.com/charles-tabi-gyansah/world_layoffs_data_cleaning_and_EDA/blob/main/EDA_of_layoffs.sql"> EDA</a>
 
 
+## Data cleaning logic
+<img width="677" height="236" alt="Data_cleaning_logic" src="https://github.com/user-attachments/assets/3420d7d4-c1a9-4771-9132-30d84b2b8141" />
+
+
+## Table schema
+<img width="592" height="232" alt="Table Schema" src="https://github.com/user-attachments/assets/89fb1fb8-a95a-4b30-9e34-024a47742c1c" />
+
+
+## EDA query
+<img width="572" height="173" alt="EDA_query_screenshot" src="https://github.com/user-attachments/assets/aede1f0e-3ca6-4ae4-8e2d-deca981863a0" />
+
+
 ## Outcome
 - Cleaned, analysis-ready dataset
 - Removed duplicate and inconsistent records
