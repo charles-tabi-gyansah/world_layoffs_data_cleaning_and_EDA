@@ -32,6 +32,13 @@ EDA was conducted to understand:
 - Companies with the highest layoffs
 
 ## Key queries are documented in:
+  <a href = "https://github.com/charles-tabi-gyansah/world_layoffs_data_cleaning_and_EDA/blob/main/EDA_of_layoffs.sql"> EDA</a>
+
+
+## Outcome
+- Cleaned, analysis-ready dataset
+- Removed duplicate and inconsistent records
+- Generated insights into global layoff trends
   
 
 
